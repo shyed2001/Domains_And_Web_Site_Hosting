@@ -8,6 +8,8 @@ https://www.hostinger.com/cpanel-login
 
 https://www.heroku.com/pricing
 
+https://www.linode.com/
+
 https://www.whtop.com/review/somee.com
 
 https://somee.com/default.aspx?utm_campaign=WHTop.com&utm_medium=Listed-on-WHTop.com&utm_source=Biggest-Web-Hosting-Directory&utm_term=ItsFree
