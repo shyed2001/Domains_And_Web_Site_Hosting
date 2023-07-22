@@ -1,9 +1,14 @@
+
+## 1. Domains And Web-Site Hosting
+
+## 2. [Cloud VPS vs Singapore VPS snd Self Managed VPS vs Managed VPS hosting](https://github.com/shyed2001/Domains_And_Web_Site_Hosting/blob/main/VPS_Managed_Hostings.md)
+
 # DomainsAndWebSiteHosting
-Domains And Web-Site Hosting
 
-## [Cloud VPS vs Singapore VPS snd Self Managed VPS vs Managed VPS hosting](https://github.com/shyed2001/Domains_And_Web_Site_Hosting/blob/main/VPS_Managed_Hostings.md)
-
+### Free Hosting Options
 https://azure.microsoft.com/en-us
+
+https://aws.amazon.com/free/webapps/?trk=cbdf3193-51b4-4114-bfbd-fcf2c6d4cc5d&sc_channel=ps&s_kwcid=AL!4422!10!71674642251353!71675163897847&ef_id=0a165463ed3c149387e730d30d248b43:G:s
 
 https://www.hostinger.com/cpanel-login
 
