@@ -1,6 +1,7 @@
 # DomainsAndWebSiteHosting
 Domains And Web-Site Hosting
 
+## [Cloud VPS vs Singapore VPS snd Self Managed VPS vs Managed VPS hosting](https://github.com/shyed2001/Domains_And_Web_Site_Hosting/blob/main/VPS_Managed_Hostings.md)
 
 https://azure.microsoft.com/en-us
 
