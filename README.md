@@ -133,7 +133,18 @@ Source: Conversation with Bing, 7/14/2023
 (5) Best WordPress Plugins Of 2023 | TechRadar. https://www.techradar.com/best/best-wordpress-plugins.
 
 
-
+				
+	Domain Extension	Description		
+	.com.bd	                Intended for Commercial entities and purposes	buy off in 29/10/2021	
+				
+	.org.bd	                Intended for Not-for-profit entities	TO DO - Make a list page for  and of all NGO	
+	.info.bd	Intended for personal names, only individuals can register	TO DO - Personal Blog	
+				
+	.net.bd	                Restricted to Bangladeshi Internet Service Provider's infrastructure	TO DO - Get a reseller web hosting server Account. 	
+	.edu.bd	Restricted to Bangladeshi Educational institute, college and universities	To DO - List page for all Bangladeshi Educational institute, college and universities	
+	.ac.bd	Restricted to Bangladeshi Academic institute, schools and coaching center	To DO - Personal Tutorial Pages	
+	.gov.bd	Restricted to Government		
+				
 
 
 Yes, you can add HTML, CSS, JS and PHP to your WordPress website. There are different ways to do this, depending on what you want to achieve. Here are some options:
