@@ -5,7 +5,7 @@
 
 ## 3. [BD_Web_Hosting_Sites](https://github.com/shyed2001/Domains_And_Web_Site_Hosting/blob/main/BD_Web_Hosting_Sites.md)
 
-### 4. [SSH Clients] (https://github.com/shyed2001/Domains_And_Web_Site_Hosting/blob/main/SSH_Client.md)
+### 4. [SSH Clients](https://github.com/shyed2001/Domains_And_Web_Site_Hosting/blob/main/SSH_Client.md)
 # Domains And Web-Site Hosting
 
 ### Free Hosting Options
